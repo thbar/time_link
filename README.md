@@ -1,5 +1,7 @@
 # TimeLink
 
+[![Build Status](https://travis-ci.org/thbar/time_link.png)](https://travis-ci.org/thbar/time_link)
+
 TODO: Write a gem description
 
 ## Installation
