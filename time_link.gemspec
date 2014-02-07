@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = TimeLink::VERSION
   spec.authors       = ["Thibaut Barrère"]
   spec.email         = ["thibaut.barrere@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Transform a Ruby time into an everytimezone.com link}
+  spec.summary       = spec.description
+  spec.homepage      = "https://github.com/thbar/time_link"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
